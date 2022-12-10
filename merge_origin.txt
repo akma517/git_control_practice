@@ -1,0 +1,2 @@
+로컬저장소에서 생성된 브랜치와 원격리모트로 가져오는 브랜치가 서로 상이하여 충돌이 일어날 경우
+git pull origin main --allow-unrelated-histories 명령어로 병합해 주면 된다.
